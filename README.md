@@ -1,1 +1,1 @@
-# Class23
+# Box Class
